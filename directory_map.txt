@@ -1,0 +1,24 @@
+.
+├── README.md
+├── directory_map.txt
+├── index.html
+├── package-lock.json
+├── package.json
+├── postcss.config.js
+├── public
+│   └── vite.svg
+├── src
+│   ├── App.vue
+│   ├── assets
+│   │   └── vue.svg
+│   ├── components
+│   ├── main.js
+│   ├── router
+│   │   └── index.js
+│   ├── style.css
+│   └── views
+│       └── Home.vue
+├── tailwind.config.js
+└── vite.config.js
+
+6 directories, 15 files
