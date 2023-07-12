@@ -1,5 +1,5 @@
 <template>
-  <navbar />
+  <NavBar />
   <main>
     <div class="max-w-[1200px] mx-auto">
       <router-view />
@@ -9,6 +9,6 @@
 </template>
 
 <script setup>
+import NavBar from "../components/NavBar.vue";
 import Footer from "../components/Footer.vue";
-import Navbar from "../components/Navbar.vue";
 </script>
