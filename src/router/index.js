@@ -6,9 +6,9 @@ import Home from "../views/Home.vue";
 import DefaultLayout from "../components/DefaultLayout.vue";
 import GuestLayout from "../components/GuestLayout.vue";
 
-import MealsByIngredient from "../views/byIngredient.vue";
-import MealsByLetter from "../views/byLetter.vue";
-import MealsByName from "../views/byName.vue";
+import MealsByIngredient from "../views/ByIngredient.vue";
+import MealsByLetter from "../views/ByLetter.vue";
+import MealsByName from "../views/ByName.vue";
 import Ingredients from "../views/Ingredient.vue";
 
 const routes = [
